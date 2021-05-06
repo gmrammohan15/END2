@@ -12,7 +12,6 @@ so that we reach the point of minimal loss without jumping or being too slow to 
 Lower the value, more time it takes to converge on minima and vice versa.Generally it is controlled for every training epochs.
 
 How are weights initialized? \
-
 Initialization of weights is one of the important steps in building neural networks.
 Intiailizing weights to zero , will make neural networks linear which is not desired
 Assiging low values result in vanishing gradient problems
