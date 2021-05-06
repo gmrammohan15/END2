@@ -1,5 +1,5 @@
 
-Assignment 1 Questions
+Answers to Assignment 1 Questions
 
 What is a neural network neuron? \
 Neuron in neural network is a logical represention of entity in each layer of neural network which has set on input connections and output connections
