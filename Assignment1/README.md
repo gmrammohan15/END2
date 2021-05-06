@@ -1,12 +1,12 @@
 
 Assignment 1 Questions
 
-What is a neural network neuron? \ 
+What is a neural network neuron? \
 Neuron in neural network is a logical represention of entity in each layer of neural network which has set on input connections and output connections
 from adjacent layers and holds temporary values.These connections are represented as weights and keeps changing based until we arrive at an optimal solution.
 Each connection to a neuron is a mathematical function of weight and an non linear activation function.
 
-What is the use of the learning rate? \ 
+What is the use of the learning rate? \
 Learning rate is essentially a variable that helps us to tune the weights while doing gradient calculation or back propogation 
 so that we reach the point of minimal loss without jumping or being too slow to reach that point
 Lower the value, more time it takes to converge on minima and vice versa.Generally it is controlled for every training epochs.
